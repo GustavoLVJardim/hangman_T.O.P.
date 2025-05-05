@@ -135,7 +135,3 @@ class Hangman
 
 
 end
-
-game = Hangman.new
-game.initial_screen
-game.new_game

@@ -1,0 +1,18 @@
+---
+:attempts: 1
+:correct_letters:
+- a
+- t
+- i
+- e
+- r
+- l
+- v
+:incorrect_letters:
+- o
+- p
+- c
+- "n"
+- s
+:choice_the_word: relatively
+:word_state: 'r e l a t i v e l _ '
